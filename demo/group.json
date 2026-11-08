@@ -23,7 +23,8 @@
    "start": "2026-08-31",
    "end": "2026-12-31",
    "first_week_odd": true
-  }
+  },
+  "preview_real_leader": true
  },
  "students": [
   {
@@ -120,7 +121,7 @@
   {
    "id": "5872cf309d",
    "name": "Егорова Анна",
-   "role": "deputy",
+   "role": "",
    "phone": "",
    "birthday": "",
    "note": "",
@@ -496,7 +497,7 @@
   },
   {
    "id": "90a6f10b02",
-   "name": "Лаптева Виктория",
+   "name": "Юнусов Артём",
    "role": "head",
    "phone": "",
    "birthday": "",
