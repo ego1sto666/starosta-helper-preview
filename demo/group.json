@@ -8,7 +8,9 @@
    "09:45-11:20",
    "11:35-13:10",
    "13:40-15:15",
-   "15:25-17:00"
+   "15:25-17:00",
+   "17:10-18:45",
+   "18:55-20:30"
   ],
   "bell_gen": {
    "start": "08:00",
@@ -26,837 +28,915 @@
   },
   "preview_real_leader": true,
   "preview_real_roster": true,
-  "preview_version": 2
+  "preview_version": 3,
+  "subgroup_count": 3,
+  "own_split": [
+   "История России",
+   "Иностранный язык"
+  ],
+  "subgroup_subject_counts": {
+   "История России": 2,
+   "Иностранный язык": 2
+  },
+  "preview_from_local": true
  },
  "students": [
   {
    "id": "acb9e644ae",
    "name": "Азаров Даниил",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 1,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "2bcc37762e",
    "name": "Али Абдулрахман Али",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 1,
    "subgroups": {
-    "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "97a079589a",
    "name": "Баринов Кирилл",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 1,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "c5e4597d16",
    "name": "Бахтина Мария",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 1,
+   "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "39f3d490a0",
    "name": "Вадин Тимур",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 1,
+   "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "a86a1ea725",
    "name": "Вилков Илья",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 1,
+   "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "2d94f7a04c",
    "name": "Волгин Андрей",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 1,
+   "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "5872cf309d",
    "name": "Германскова Екатерина",
    "role": "deputy",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 1,
+   "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "7108c3bcfd",
    "name": "Гордеев Денис",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 1,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "bbc8d2e207",
    "name": "Горшкова Маргарита",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 1,
+   "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "2f345c44d4",
    "name": "Дарвиш Эмад Ахмед Дарвиш",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 1,
    "subgroups": {
-    "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "50055b45f4",
    "name": "Живаев Александр",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 1,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "65b9e4fa45",
    "name": "Зайцев Артём",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 1,
+   "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "5ae308f5e0",
    "name": "Коншин Степан",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "8c33950906",
    "name": "Костин Никита",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "4363600580",
    "name": "Кочнев Егор",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "9c0f78886d",
    "name": "Левенков Никита",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "ccf2441c96",
    "name": "Майоров Артур",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "4740b6f739",
    "name": "Маштаков Никита",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 2,
+   "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 1,
     "История России": 1
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "2022eb6415",
    "name": "Мохонов Матвей",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 2,
+   "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "41b566f8cb",
    "name": "Мухин Егор",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 2,
+   "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "ded4722a82",
    "name": "Нгуала Майитука Эмеронд",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 2,
+   "subgroup": 1,
    "subgroups": {
-    "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "45c6288f2a",
    "name": "Нгуала Марсиала Гад",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 2,
+   "subgroup": 1,
    "subgroups": {
-    "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "f49f6e7476",
    "name": "Пазавин Илья",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "6c7e1a544b",
    "name": "Петров Михаил",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "dbd481c31d",
    "name": "Репников Артём",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 3,
+   "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "0eac2aca11",
    "name": "Романов Александр",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 3,
+   "subgroup": 1,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "d5106aea0e",
    "name": "Смирнов Степан",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "fbdc789463",
    "name": "Сорокина Ева",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 3,
+   "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "c6ae9b8592",
    "name": "Тарасова Юлия",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 3,
+   "subgroup": 2,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "4c7f81783c",
    "name": "Файзиев Бехруз",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "d314a70e70",
    "name": "Хаитов Михаил",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "9d3c29181a",
    "name": "Херази Мохамед",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 3,
+   "subgroup": 1,
    "subgroups": {
-    "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "8d99bd4417",
    "name": "Штылев Андрей",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 3,
+   "subgroup": 1,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "27697d4b98",
    "name": "Эльсаббаг Сайфельдин Салама",
    "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
-   "subgroup": 3,
+   "subgroup": 1,
    "subgroups": {
-    "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "b851578345",
    "name": "Юлынов Алексей",
-   "role": "",
-   "phone": "",
-   "birthday": "",
-   "note": "",
+   "role": "deputy",
    "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   },
   {
    "id": "90a6f10b02",
    "name": "Юнусов Артём",
    "role": "head",
-   "phone": "",
-   "birthday": "",
-   "note": "",
    "subgroup": 3,
    "subgroups": {
     "Иностранный язык": 2,
     "История России": 2
-   }
+   },
+   "phone": "",
+   "email": "",
+   "telegram": "",
+   "birthday": "",
+   "note": ""
   }
  ],
  "teachers": [
   {
-   "id": "cdd1c980a8",
-   "name": "Преподаватель 01"
+   "id": "dd18e82d32",
+   "name": "Седаев П. В."
   },
   {
-   "id": "de3d2e0576",
-   "name": "Преподаватель 02"
+   "id": "f1c17c4ef3",
+   "name": "Бойтякова К. А."
   },
   {
-   "id": "8178a4430e",
-   "name": "Преподаватель 03"
+   "id": "c8855275d2",
+   "name": "Халеева У. И."
   },
   {
-   "id": "489dd960b2",
-   "name": "Преподаватель 04"
+   "id": "ffc179dfcc",
+   "name": "Дроздова Т. А."
   },
   {
-   "id": "99ce247c0c",
-   "name": "Преподаватель 05"
+   "id": "d49a0bab2e",
+   "name": "Нуятов А. А."
   },
   {
-   "id": "b5b0bc6bd2",
-   "name": "Преподаватель 06"
+   "id": "b4c1eceda9",
+   "name": "Гордина Е. Д."
   },
   {
-   "id": "7732e2172f",
-   "name": "Преподаватель 07"
+   "id": "2fd77f5095",
+   "name": "Федоров И. Д."
   },
   {
-   "id": "1fbb50ed64",
-   "name": "Преподаватель 08"
+   "id": "c21a749d74",
+   "name": "Панкратова А. З."
   },
   {
-   "id": "a60804da88",
-   "name": "Преподаватель 09"
+   "id": "aeab137614",
+   "name": "Алексеева Н. А."
   },
   {
-   "id": "caceb94263",
-   "name": "Преподаватель 10"
+   "id": "f64d2ce246",
+   "name": "Кулясова В. П."
   },
   {
-   "id": "54470a3e74",
-   "name": "Преподаватель 11"
+   "id": "76652fa8a8",
+   "name": "Мартынов Д. С."
   },
   {
-   "id": "6f214c448a",
-   "name": "Преподаватель 12"
+   "id": "f2b6a5770b",
+   "name": "Савенкова Е. С."
   },
   {
-   "id": "481bf7d0d0",
-   "name": "Преподаватель 13"
+   "id": "a83c489ed7",
+   "name": "Попова С. В."
   },
   {
-   "id": "e94747a4d6",
-   "name": "Преподаватель 14"
+   "id": "37940fb3a0",
+   "name": "Проскурякова М. П."
   },
   {
-   "id": "406cce648a",
-   "name": "Преподаватель 15"
+   "id": "76c617706c",
+   "name": "Чубаров В. К."
   },
   {
-   "id": "4bfad1ec54",
-   "name": "Преподаватель 16"
+   "id": "a918ea4e90",
+   "name": "Китов А. А."
   }
  ],
  "lessons": [
   {
-   "id": "36ecd01623",
+   "id": "9ffcf797de",
    "subject": "Основы российской государственности",
    "day": 0,
    "num": 1,
    "week": "all",
    "kind": "Практика",
    "room": "6414, корп. 6",
-   "teacher": "Преподаватель 01"
+   "teacher": "Седаев П. В."
   },
   {
-   "id": "fa89e4e339",
+   "id": "bbb1232119",
    "subject": "Графические информационные технологии (подгруппа 1)",
    "day": 0,
    "num": 2,
    "week": "even",
    "kind": "Лабораторная",
    "room": "6340, корп. 6",
-   "teacher": "Преподаватель 02"
+   "teacher": "Бойтякова К. А."
   },
   {
-   "id": "37e4cbd116",
+   "id": "4134d9bbe0",
    "subject": "Графические информационные технологии (подгруппа 2)",
    "day": 0,
    "num": 2,
    "week": "even",
    "kind": "Лабораторная",
    "room": "6341, корп. 6",
-   "teacher": "Преподаватель 03"
+   "teacher": "Халеева У. И."
   },
   {
-   "id": "8a5eaceb34",
+   "id": "6d203d480a",
    "subject": "Графические информационные технологии (подгруппа 3)",
    "day": 0,
    "num": 2,
    "week": "even",
    "kind": "Лабораторная",
    "room": "6342, корп. 6",
-   "teacher": "Преподаватель 04"
+   "teacher": "Дроздова Т. А."
   },
   {
-   "id": "8fd33a5278",
+   "id": "19fe78b8e3",
    "subject": "Математика",
    "day": 0,
    "num": 3,
    "week": "all",
    "kind": "Лекция",
    "room": "6125, корп. 6",
-   "teacher": "Преподаватель 05"
+   "teacher": "Нуятов А. А."
   },
   {
-   "id": "c437d29a59",
+   "id": "d6e48c10b8",
    "subject": "История России (подгруппа 1)",
    "day": 0,
    "num": 4,
    "week": "even",
    "kind": "Практика",
    "room": "6409, корп. 6",
-   "teacher": "Преподаватель 06"
+   "teacher": "Гордина Е. Д."
   },
   {
-   "id": "d491ec1bcf",
+   "id": "ce64d6afab",
    "subject": "История России (подгруппа 2)",
    "day": 0,
    "num": 4,
    "week": "even",
    "kind": "Практика",
    "room": "6410, корп. 6",
-   "teacher": "Преподаватель 07"
+   "teacher": "Федоров И. Д."
   },
   {
-   "id": "410c7a16ee",
+   "id": "3ee4fc3978",
    "subject": "Дискретные структуры (Дисциплина по выбору 3)",
    "day": 1,
    "num": 3,
    "week": "all",
    "kind": "Лекция",
    "room": "4201, корп. 4",
-   "teacher": "Преподаватель 08"
+   "teacher": "Панкратова А. З."
   },
   {
-   "id": "ba1dc335f7",
+   "id": "a4c4b7ae2f",
    "subject": "Дискретные структуры (Дисциплина по выбору 3)",
    "day": 1,
    "num": 4,
    "week": "all",
    "kind": "Практика",
    "room": "4201, корп. 4",
-   "teacher": "Преподаватель 08"
+   "teacher": "Панкратова А. З."
   },
   {
-   "id": "4a7dfdc885",
+   "id": "460e4fc751",
    "subject": "Иностранный язык (подгруппа 2)",
    "day": 1,
    "num": 5,
    "week": "all",
    "kind": "Практика",
    "room": "1209, корп. 1",
-   "teacher": "Преподаватель 09"
+   "teacher": "Алексеева Н. А."
   },
   {
-   "id": "271792d06f",
+   "id": "a64d41523d",
    "subject": "Информатика (подгруппа 2)",
    "day": 2,
    "num": 1,
    "week": "even",
    "kind": "Лабораторная",
    "room": "6154, корп. 6",
-   "teacher": "Преподаватель 10"
+   "teacher": "Кулясова В. П."
   },
   {
-   "id": "d7c8b01ac3",
+   "id": "933e780656",
    "subject": "Программирование (подгруппа 2)",
    "day": 2,
    "num": 2,
    "week": "even",
    "kind": "Лабораторная",
    "room": "6251, корп. 6",
-   "teacher": "Преподаватель 11"
+   "teacher": "Мартынов Д. С."
   },
   {
-   "id": "056d3625ab",
+   "id": "0f0c9b5e30",
    "subject": "История России",
    "day": 3,
    "num": 2,
    "week": "all",
    "kind": "Лекция",
    "room": "6245, корп. 6",
-   "teacher": "Преподаватель 06"
+   "teacher": "Гордина Е. Д."
   },
   {
-   "id": "012c41c10b",
+   "id": "4f59e79fbe",
    "subject": "Информатика (подгруппа 3)",
    "day": 3,
    "num": 4,
    "week": "even",
    "kind": "Лабораторная",
    "room": "6342, корп. 6",
-   "teacher": "Преподаватель 10"
+   "teacher": "Кулясова В. П."
   },
   {
-   "id": "be4b265a0e",
+   "id": "bcac1f1146",
    "subject": "Русский язык и культура речи",
    "day": 4,
    "num": 1,
    "week": "even",
    "kind": "Лекция",
    "room": "6127, корп. 6",
-   "teacher": "Преподаватель 12"
+   "teacher": "Савенкова Е. С."
   },
   {
-   "id": "83f8e0abca",
+   "id": "db50b47908",
    "subject": "Программирование",
    "day": 4,
    "num": 2,
    "week": "all",
    "kind": "Практика",
    "room": "6419, корп. 6",
-   "teacher": "Преподаватель 11"
+   "teacher": "Мартынов Д. С."
   },
   {
-   "id": "0579067d53",
+   "id": "04a4a698aa",
    "subject": "Математика",
    "day": 4,
    "num": 3,
    "week": "all",
    "kind": "Практика",
    "room": "6529, корп. 6",
-   "teacher": "Преподаватель 13"
+   "teacher": "Попова С. В."
   },
   {
-   "id": "8eb46fe77a",
+   "id": "8dd65470d9",
    "subject": "Программирование",
    "day": 4,
    "num": 4,
    "week": "all",
    "kind": "Лекция",
    "room": "6419, корп. 6",
-   "teacher": "Преподаватель 11"
+   "teacher": "Мартынов Д. С."
   },
   {
-   "id": "6e6e8d753c",
+   "id": "77fa725feb",
    "subject": "Иностранный язык (подгруппа 1)",
    "day": 4,
    "num": 5,
    "week": "all",
    "kind": "Практика",
    "room": "6332, корп. 6",
-   "teacher": "Преподаватель 14"
+   "teacher": "Проскурякова М. П."
   },
   {
-   "id": "ed2d0d2af2",
+   "id": "15a270174e",
    "subject": "Элективные курсы по физической культуре и спорту",
    "day": 5,
    "num": 3,
    "week": "all",
    "kind": "Практика",
    "room": "Спорткомплекс, корп. 6",
-   "teacher": "Преподаватель 15"
+   "teacher": "Чубаров В. К."
   },
   {
-   "id": "b6f18c8eb3",
+   "id": "21299ff3a2",
    "subject": "Элективные курсы по физической культуре и спорту",
    "day": 5,
    "num": 4,
    "week": "all",
    "kind": "Практика",
    "room": "Спорткомплекс, корп. 6",
-   "teacher": "Преподаватель 15"
+   "teacher": "Чубаров В. К."
   },
   {
-   "id": "0b0a2e6310",
+   "id": "d6657d16c6",
    "subject": "Графические информационные технологии",
    "day": 0,
    "num": 2,
    "week": "odd",
    "kind": "Лекция",
    "room": "6126, корп. 6",
-   "teacher": "Преподаватель 02"
+   "teacher": "Бойтякова К. А."
   },
   {
-   "id": "6c2111a7a3",
+   "id": "7f5a934c4a",
    "subject": "Русский язык и культура речи",
    "day": 0,
    "num": 4,
    "week": "odd",
    "kind": "Практика",
    "room": "6307, корп. 6",
-   "teacher": "Преподаватель 12"
+   "teacher": "Савенкова Е. С."
   },
   {
-   "id": "7e0c3bbc84",
+   "id": "54e171c262",
    "subject": "Основы российской государственности",
    "day": 0,
    "num": 5,
    "week": "odd",
    "kind": "Лекция",
    "room": "6126, корп. 6",
-   "teacher": "Преподаватель 01"
+   "teacher": "Седаев П. В."
   },
   {
-   "id": "31ee6fddbb",
+   "id": "32b1efa87f",
    "subject": "Информатика (подгруппа 1)",
    "day": 2,
    "num": 1,
    "week": "odd",
    "kind": "Лабораторная",
    "room": "6154, корп. 6",
-   "teacher": "Преподаватель 10"
+   "teacher": "Кулясова В. П."
   },
   {
-   "id": "5d7e6eea53",
+   "id": "b8a6ff5232",
    "subject": "Программирование (подгруппа 1)",
    "day": 2,
    "num": 2,
    "week": "odd",
    "kind": "Лабораторная",
    "room": "6251, корп. 6",
-   "teacher": "Преподаватель 11"
+   "teacher": "Мартынов Д. С."
   },
   {
-   "id": "d6c5d59ac8",
+   "id": "be51f0e02d",
    "subject": "Информатика",
    "day": 3,
    "num": 1,
    "week": "odd",
    "kind": "Лекция",
    "room": "6128, корп. 6",
-   "teacher": "Преподаватель 16"
+   "teacher": "Китов А. А."
   },
   {
-   "id": "7ce9dcac77",
+   "id": "480d0fe0e2",
    "subject": "Программирование (подгруппа 3)",
    "day": 4,
    "num": 5,
    "week": "odd",
    "kind": "Лабораторная",
    "room": "6142, корп. 6",
-   "teacher": "Преподаватель 11"
+   "teacher": "Мартынов Д. С."
   }
  ],
  "attendance": {},
