@@ -1,0 +1,53 @@
+{
+  "name": "Помощник старосты",
+  "short_name": "Староста",
+  "description": "Расписание, посещаемость и дела группы — помощник для старост разных вузов",
+  "lang": "ru",
+  "start_url": "./#demo",
+  "display": "standalone",
+  "background_color": "#F1F4F2",
+  "theme_color": "#F1F4F2",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Отметить текущую пару",
+      "short_name": "Отметить",
+      "url": "./#now",
+      "icons": [
+        {
+          "src": "assets/icon.png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Сдачи работ",
+      "short_name": "Сдачи",
+      "url": "./#study/works",
+      "icons": [
+        {
+          "src": "assets/icon.png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Журнал",
+      "short_name": "Журнал",
+      "url": "./#journal",
+      "icons": [
+        {
+          "src": "assets/icon.png",
+          "sizes": "512x512"
+        }
+      ]
+    }
+  ]
+}

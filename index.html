@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Помощник старосты</title>
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="Расписание, посещаемость и дела группы — помощник для старост разных вузов">
+  <meta name="theme-color" content="#F1F4F2">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.png">
+  <link rel="apple-touch-icon" href="assets/icon.png">
+  <link rel="preload" href="assets/icons.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/icons-fill.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/onest-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/app.css">
+  <script>
+    // тема до первой отрисовки, чтобы не мигало
+    try { var t = JSON.parse(localStorage.getItem("starosta.theme") || "null"); if (t && t !== "system") document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#view">К содержимому</a>
+  <div class="app">
+    <nav class="nav" id="nav" aria-label="Разделы"></nav>
+    <main class="main">
+      <header class="topbar" id="topbar"></header>
+      <div id="view" class="view" tabindex="-1"></div>
+    </main>
+    <div class="actionbar" id="actionbar" hidden></div>
+    <button class="fab" id="fab" type="button" hidden aria-label="Добавить"><i class="ic" aria-hidden="true">&#xE3D4;</i></button>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <div class="sheet" id="sheet" hidden></div>
+
+  <script src="js/nntu.js"></script>
+  <script src="js/xlsx.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
