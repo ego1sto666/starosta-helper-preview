@@ -25,7 +25,8 @@
    "first_week_odd": true
   },
   "preview_real_leader": true,
-  "preview_real_roster": true
+  "preview_real_roster": true,
+  "preview_version": 2
  },
  "students": [
   {
